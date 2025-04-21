@@ -1,0 +1,11 @@
+lib64
+bin 
+lib
+pyvenv.cfg
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+debug
+include
